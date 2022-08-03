@@ -11,6 +11,7 @@ fontfamilyoptions: default
 **Lucious Daniels Jr.**  
 _luciousdanielsjr@protonmail.com_  
 GitHub: https://github.com/malucious81  
+912-223-9773
 
 
 ## Objective  
