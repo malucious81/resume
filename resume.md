@@ -55,6 +55,8 @@ _**Abacus Solutions Group, June 2021 - Present**_
 
   * Utilized logical volumes to separate system partitions and optimize storage.  
 
+  * Migrated Red Hat 7 systems to Red Hat 8.
+
 
 _**Glynn County Board of Commissioners, November 2014-June 2021**_  
 
