@@ -19,7 +19,7 @@ Earn a technical position supporting, configuring , or deploying Linux systems.
 ## Education  
 
 
-* Redhat Certified System Administrator RHCSA EX200, March 2020  
+* Redhat Certified System Administrator 200-026-953 RHCSA EX200, March 2020  
 
 * Linux Academy Linux+LPIC 101, Linux+LPIC 102  
 
