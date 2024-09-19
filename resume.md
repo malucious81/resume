@@ -104,7 +104,7 @@ _**Glynn County Board of Commissioners, November 2014-June 2021**_
 
      * After resolution, I train end-users on how I solved the problem should it re-occur.  
 
-   * Supported audio and video for Count commissioner livestreams.  
+   * Supported audio and video for County commissioner livestreams.  
 
 
 _**Radiant Systems, November 2009-November 2010**_  
