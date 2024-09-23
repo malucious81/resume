@@ -1,42 +1,47 @@
-**Lucious Daniels Jr.** 
-_luciousdanielsjr@protonmail.com_ 
-Github: https://github.com/malucious81
+**Lucious Daniels Jr.**  
 
-**Objective** 
-Earn a technical position automating systems and servers. 
+_luciousdanielsjr@protonmail.com_  
+
+Github: https://github.com/malucious81 
+
+**Objective**  
+
+Earn a technical position automating systems and servers.  
+
 
 **Career Highlights**
-* Bachelor of Fine arts Computer Art SCAD 2004 
+  * Bachelor of Fine arts Computer Art Savannah College of  Art and Design 2004 
 
-* I bring over 13 years of IT experience. Experience in Windows/windows server, Linux, networking, automation, troubleshooting. 
+  * I bring over 13 years of IT experience. Experience in Windows/windows server, Linux, networking, automation, troubleshooting. 
 
-* Red Hat Certified System Administrator 2020  
+  * Red Hat Certified System Administrator 2020  
 
-* Took Linux systems, inheritted with a new positions, and got them up to spec with little help. This included resetting passwords, setting up SSH keys, creating an Ansible infrastructure with roles and playbooks.  
+  * Took Linux systems, inheritted with a new positions, and got them up to spec with little assistance. This included resetting passwords, setting up SSH keys, creating an Ansible infrastructure with roles and playbooks.  
 
-* Wrote a powershell script to assist with the onboarding of new employees.  
+  * Wrote a powershell script to assist with the onboarding of new employees.  
 
-* Used Bash to convert thouands of images for FEMA submissions while maintaining folder structure in a time-sensitive situation.
+  * Used Bash to convert thouands of images for FEMA submissions while maintaining folder structure in a time-sensitive situation.
 
-* At Glynn County Board of Commissioners, I was the preferred technician for many users to resolve problems.
+  * At Glynn County Board of Commissioners, I was the preferred technician for many users to resolve problems.
 
 **Experience** 
 
-**Abacus Solutions Group, June 2021 - Present**
-• Linux System Administrator 
+**Abacus Solutions Group, June 2021 - Present** 
 
-  – Built Ansible infrastructure complete with playbooks, roles, tasks, and managed inventory file. 
+• _Linux System Administrator_
 
-  – Used ansible to automate software installations, performed system upgrades, gather system information for reporting 
+  * Built Ansible infrastructure complete with playbooks, roles, tasks, and managed inventory file. 
 
-  – Applied STIGs(Security Technical Implementation Guides) to Red Hat systems for hardening. 
+  * Used ansible to automate software installations, performed system upgrades, gather system information for reporting 
 
-  – Used bash scripts to automate tasks 
+  * Applied STIGs(Security Technical Implementation Guides) to Red Hat systems for hardening. 
 
-  – Configured SSSD(System Security Services Daemon) to allow for Active Directory login on Linux systems. 
+  * Used bash scripts to automate tasks 
 
-  – Foreman, Katello, Red Hat Satellite for additional monitoring and license management 
+  * Configured SSSD(System Security Services Daemon) to allow for Active Directory login on Linux systems. 
 
-  – Updated certificates for nginx reverse proxy front-ends 
+  * Foreman, Katello, Red Hat Satellite for additional monitoring and license management 
 
-  – Utilized logical volumes to separate system partitions and optimize storage.
+  * Updated certificates for nginx reverse proxy front-ends 
+
+  * Utilized logical volumes to separate system partitions and optimize storage.
