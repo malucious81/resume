@@ -14,7 +14,7 @@ GitHub: https://github.com/malucious81
 
 
 ## Objective  
-Earn a technical position supporting, configuring , or deploying Linux systems.
+Earn a technical position supporting, configuring , or automation systems.
 
 ## Education  
 
@@ -128,4 +128,8 @@ _**Radiant Systems, November 2009-November 2010**_
 
 * Can be easily taught/willing to learn  
 
+## Current Learning  
 
+* Working through DevOps bootcamp https://www.techworld-with-nana.com/devops-bootcamp
+* Docker (Containers, Images, Compose)  
+* Python for automation
