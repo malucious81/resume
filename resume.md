@@ -10,7 +10,7 @@ fontfamilyoptions: default
 
 **Lucious Daniels Jr.**  
 _luciousdanielsjr@protonmail.com_  
-GitHub: https://github.com/malucious81  
+GitLab: https://gitlab.com/ldanielsjr
 
 
 ## Objective  
