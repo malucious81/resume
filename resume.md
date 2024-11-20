@@ -120,16 +120,18 @@ _**Radiant Systems, November 2009-November 2010**_
 
 * Excellent customer service  
 
-* Flexible, experienced with  multiple operating systems  
+* Flexible, experienced with  multiple operating systems, networking, virtualization.
 
 * Dependable to accomplish tasks  
 
-* Works well with others  
+* Works well with others. I am experienced working in departments that have multiple teams: networking, server, service desk.  
 
 * Can be easily taught/willing to learn  
 
 ## Current Learning  
 
 * Working through DevOps bootcamp https://www.techworld-with-nana.com/devops-bootcamp
-* Docker (Containers, Images, Compose)  
-* Python for automation
+  * Learned scripting for deploying an app using node.js
+  * Used Nexus repository manager to deploy app remotely on Digital Ocean.
+  * Docker (Containers, Images, Compose)  
+  * Python for automation
