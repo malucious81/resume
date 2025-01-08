@@ -14,7 +14,7 @@ GitLab: https://gitlab.com/ldanielsjr
 
 
 ## Objective  
-Earn a technical position supporting, configuring , or automation systems.
+Earn a technical position supporting, configuring , or automating systems.
 
 ## Education  
 
