@@ -34,7 +34,7 @@ Earn a technical position supporting, configuring , or automating systems.
 
 ## Experience  
 
-_**Abacus Solutions Group, June 2021 - Present**_  
+_**Abacus Solutions Group, June 2021 - August 2024**_  
 
 * Linux System Administrator  
 
