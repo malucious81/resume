@@ -10,7 +10,7 @@ fontfamilyoptions: default
 
 **Lucious Daniels Jr.**  
 _luciousdanielsjr@protonmail.com_  
-GitLab: https://gitlab.com/ldanielsjr
+GitLab: https://gitlab.com/ldanielsjr/groups
 
 
 ## Objective  
