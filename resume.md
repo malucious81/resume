@@ -13,8 +13,15 @@ _luciousdanielsjr@protonmail.com_
 GitLab: https://gitlab.com/ldanielsjr/groups
 
 
-## Objective  
-Earn a technical position supporting, configuring , or automating systems.
+## Summary  
+
+Technical professional with over a decade of experience in system administration, specializing in Linux systems and automation. 
+
+Proficient in utilizing Ansible, Bash scripting, and Red Hat technologies to enhance system performance and security.   
+
+Adept at implementing security protocols and performing system migrations.  
+
+Committed to optimizing IT environments through innovative solutions.  
 
 ## Education  
 
