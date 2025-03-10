@@ -26,11 +26,11 @@ Committed to optimizing IT environments through innovative solutions.
 ## Education  
 
 
-* Redhat Certified System Administrator 200-026-953 RHCSA EX200, March 2020  
+* Redhat Certified System Administrator 200-026-953 RHCSA EX200, 03-04-2020  
 
 * Linux Academy Linux+LPIC 101, Linux+LPIC 102  
 
-* Passed Linux+ LX0-103 exam, 2015, COMP001008569386  
+* Passed Linux+ LX0-103 exam, 11-09-2015, COMP001008569386  
 
 * CompTIA SY0-301 Security+  Certification, 2014 #COMP001008569386  
 
