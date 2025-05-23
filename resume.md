@@ -30,7 +30,7 @@ Committed to optimizing IT environments through innovative solutions.
 
 * Linux Academy Linux+LPIC 101, Linux+LPIC 102  
 
-* Passed Linux+ LX0-103 exam, 11-09-2015, COMP001008569386  
+* CompTIA Linux+ LX0-103 exam, 11-09-2015, COMP001008569386  
 
 * CompTIA SY0-301 Security+  Certification, 2014 #COMP001008569386  
 
