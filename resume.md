@@ -14,21 +14,29 @@ GitLab: https://gitlab.com/ldanielsjr/groups
 
 
 ## Summary  
+I have over 13 years of experience in Information Technology with a specialty in system administration. In those years I've provided best-in-class customer service for my customers whether internal or external. My most recent experience is in Linux and its surrounding technologies. My goal is to improve my automation toolset and eventually get into software development.
 
-Technical professional with over a decade of experience in system administration, specializing in Linux systems and automation. 
+## Competencies  
 
-Proficient in utilizing Ansible, Bash scripting, and Red Hat technologies to enhance system performance and security.   
+* Operating Systems - Windows Server, Redhat, Ubuntu Linux provisioning, patch manageUment, networking, and decomissioning on physical and virtual platforms like VMware and KVM.  
 
-Adept at implementing security protocols and performing system migrations.  
+* Automation - Bash scripting, Powershell scripting, Ansible, Group Policy Objects  
 
-Committed to optimizing IT environments through innovative solutions.  
+* Technical Support - Customer service, troubleshooting/problem solving, soft skills.  
+
+* Identity management - User and group management with Active Directory. Linux integration with Active Directory through System Security Services Daemon(SSSD).  
+
 
 ## Education  
 
-
-* Redhat Certified System Administrator 200-026-953 RHCSA EX200, 03-04-2020  
+* Savannah College of Art and Design. Bachelor of Fine Arts, 2004 Savannah, GA
+  * Major: Computer Art 3D  
 
 * Linux Academy Linux+LPIC 101, Linux+LPIC 102  
+
+## Certifications  
+
+* Redhat Certified System Administrator 200-026-953 RHCSA EX200, 03-04-2020  
 
 * CompTIA Linux+ LX0-103 exam, 11-09-2015, COMP001008569386  
 
@@ -36,8 +44,6 @@ Committed to optimizing IT environments through innovative solutions.
 
 * CompTIA 2007 A+ Certification, 2009 #COMP001008569386  
 
-* Savannah College of Art and Design. Bachelor of Fine Arts, 2004 Savannah, GA
-  * Major: Computer Art 3D  
 
 ## Experience  
 
