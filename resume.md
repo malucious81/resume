@@ -18,7 +18,7 @@ I have over 13 years of experience in Information Technology with a specialty in
 
 ## Competencies  
 
-* Operating Systems - Windows Server, Redhat, Ubuntu Linux provisioning, patch manageUment, networking, and decomissioning on physical and virtual platforms like VMware and KVM.  
+* Operating Systems - Windows Server, Redhat, Ubuntu Linux provisioning, patch management, networking, and decomissioning on physical and virtual platforms like VMware and KVM.  
 
 * Automation - Bash scripting, Powershell scripting, Ansible, Group Policy Objects  
 
