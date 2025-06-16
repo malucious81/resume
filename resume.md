@@ -125,18 +125,3 @@ _**Radiant Systems, November 2009-November 2010**_
 * Computer Repair Technician  
 
   * Repaired and rebuilt point of sale computers  
-
-
-## Highlight of Qualifications  
-
-* Over 10 years of IT troubleshooting and problem solving experience  
-
-* Excellent customer service  
-
-* Flexible, experienced with  multiple operating systems, networking, virtualization.
-
-* Dependable to accomplish tasks  
-
-* Works well with others. I am experienced working in departments that have multiple teams: networking, server, service desk.  
-
-* Can be easily taught/willing to learn  
