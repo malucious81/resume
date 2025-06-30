@@ -10,7 +10,7 @@ fontfamilyoptions: default
 
 **Lucious Daniels Jr.**  
 _luciousdanielsjr@protonmail.com_  
-GitLab: https://gitlab.com/ldanielsjr/groups
+GitLab: https://gitlab.com/automation_examples/ansible_bash
 
 
 ## Summary  
