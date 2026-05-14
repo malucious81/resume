@@ -49,8 +49,14 @@ _**General Dynmics Information Technology, 2026**_
 * Linux System Administrator  
 
   * Collaborated with database administrators to configured operating system prerequisites for OS migration  
+
+  * Coordinated betweeen database administrators and developers to schedule downtime for approved changes.
   
   * Gained a deeper understading of Ansible inventory management, as well as, playbook writing techniques.  
+
+  * Configured systems for STIG compliance.  
+
+  * Applied monthly operating system patches
 
 _**Freelancing/Training, 2025**_  
   * Git  
