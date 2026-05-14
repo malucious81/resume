@@ -1,12 +1,6 @@
----
-geometry: margin=2cm
-papersize: a4paper
-toc: false
-fontfamily: sourcesanspro
-fontfamilyoptions: default
---- 
 
----
+
+
 
 **Lucious Daniels Jr.**  
 _luciousdanielsjr@protonmail.com_  
@@ -17,7 +11,7 @@ GitLab: https://gitlab.com/automation_examples/ansible_bash
 
 
 ## Summary  
-I have over 13 years of experience in Information Technology with a specialty in system administration. In those years I've provided best-in-class customer service for my customers whether internal or external. My most recent experience is in Linux and its surrounding technologies. My goal is to improve my automation toolset and eventually get into software development.
+I have over 15 years of experience in Information Technology with a specialty in system administration. In those years I've provided best-in-class customer service for my customers whether internal or external. My most recent experience is in Linux and its surrounding technologies. My goal is to improve my automation toolset and eventually get into software development.
 
 ## Competencies  
 
@@ -50,7 +44,7 @@ I have over 13 years of experience in Information Technology with a specialty in
 
 ## Experience  
 
-_**General Dynmics Information Technology, 2025**_  
+_**General Dynmics Information Technology, 2026**_  
 
 * Linux System Administrator  
 
