@@ -10,7 +10,10 @@ fontfamilyoptions: default
 
 **Lucious Daniels Jr.**  
 _luciousdanielsjr@protonmail.com_  
-GitLab: https://gitlab.com/automation_examples/ansible_bash
+LinkedIn:  https://www.linkedin.com/in/lucious-daniels-jr-b4971615  
+GitLab: https://gitlab.com/automation_examples/ansible_bash  
+912-223-9773
+
 
 
 ## Summary  
@@ -47,11 +50,28 @@ I have over 13 years of experience in Information Technology with a specialty in
 
 ## Experience  
 
-_**Abacus Solutions Group, June 2021 - August 2024**_  
+_**General Dynmics Information Technology, 2025**_  
+
+* Linux System Administrator  
+
+  * Collaborated with database administrators to configured operating system prerequisites for OS migration  
+  
+  * Gained a deeper understading of Ansible inventory management, as well as, playbook writing techniques.  
+
+_**Freelancing/Training, 2025**_  
+  * Git  
+  * Python  
+  * Docker
+  * AWS  
+  * Blender
+
+_**Abacus Solutions Group, 2021**_  
 
 * Linux System Administrator  
 
   * Built Ansible infrastructure complete with playbooks, roles, tasks, and managed inventory file.
+
+  * Deployed systems on VMware on appropriate SAN storage. Installed and configured guest specific software using Ansible roles.
 
   * Used ansible to automate software installations, performed system upgrades, gather system information for reporting  
 
@@ -67,10 +87,14 @@ _**Abacus Solutions Group, June 2021 - August 2024**_
 
   * Utilized logical volumes to separate system partitions and optimize storage.  
 
-  * Migrated Red Hat 7 systems to Red Hat 8.
+  * Migrated Red Hat 7 systems to Red Hat 8.  
+
+  * Created Documentation(SOPs) for Linux specific hardening and maintenance routines.  
+
+  * Created tickets with software and hardware vendors (Redhat, Dell) to extend knowledge on vulnerabilities and fix hardware failures.  
 
 
-_**Glynn County Board of Commissioners, November 2014-June 2021**_  
+_**Glynn County Board of Commissioners, 2014**_  
 
 * System Administrator  
 
@@ -91,7 +115,7 @@ _**Glynn County Board of Commissioners, November 2014-June 2021**_
   * Setup policy server for negotiating enterprise wireless connections and Cisco device authentication  
 
 
- _**Glynn County Board of Commissioners, November 2010-June 2014**_  
+ _**Glynn County Board of Commissioners, 2010**_  
 
  * IT Service Specialist  
 
