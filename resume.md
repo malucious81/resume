@@ -44,7 +44,7 @@ I have over 15 years of experience in Information Technology with a specialty in
 
 ## Experience  
 
-_**General Dynmics Information Technology, 2026**_  
+_**General Dynmics Information Technology, Sept 2025 - Present**_  
 
 * Linux System Administrator  
 
