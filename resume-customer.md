@@ -11,7 +11,7 @@ GitLab: https://gitlab.com/automation_examples/ansible_bash
 
 
 ## Summary  
-In my 15 years of working in IT, I have been exposed to a variety of customers, tools, and technologies. My recent years have been focused on supporting Linux, and surrounding technologies, for federal customers. I love solving problem and I especially love solving problems with automation. Ansible is one of my favorite tools to use for its versitility and agentless design. When a customer presents a problem, I understand the importance of listening to their needs identify the appropriate technological solution.  
+In my 15 years of working in IT, I have been exposed to a variety of customers, tools, and technologies. My recent years have been focused on supporting Linux, and surrounding technologies, for federal customers. I love solving problems and I especially love solving problems with automation. Ansible is one of my favorite tools to use for its versitility and agentless design. When a customer presents a problem, I understand the importance of listening to their needs to identify the appropriate technological solution.  
 
 ## Competencies  
 
@@ -48,22 +48,22 @@ _**General Dynmics Information Technology, Sept 2025 - Present**_
 
 * Linux System Administrator  
 
-  * Supported security customers by making compliance adjustments.  
+  * Supported security customers by making compliance adjustments  
 
   * Collaborated with database administrators to configured operating system prerequisites for OS migration  
 
-  * Coordinated betweeen database administrators and developers to schedule downtime for approved changes.
+  * Coordinated betweeen database administrators and developers to schedule downtime for approved changes  
   
-  * Gained a deeper understading of Ansible inventory management, as well as, playbook writing techniques.  
+  * Gained a deeper understading of Ansible inventory management, as well as, playbook writing techniques  
 
-  * Applied monthly operating system patches
+  * Applied monthly operating system patches  
 
 _**Freelancing/Training, 2025**_  
   * Git  
   * Python  
-  * Docker
+  * Docker  
   * AWS  
-  * Blender
+  * Blender  
 
 _**Abacus Solutions Group, 2021**_  
 
@@ -149,4 +149,4 @@ _**Radiant Systems, November 2009-November 2010**_
 
 * Computer Repair Technician  
 
-  * Repaired and rebuilt point of sale computers  
+  * Repaired and rebuilt point-of-sale computers  
