@@ -11,11 +11,11 @@ GitLab: https://gitlab.com/automation_examples/ansible_bash
 
 
 ## Summary  
-I have over 15 years of experience in Information Technology with a specialty in system administration. In those years I've provided best-in-class customer service for my customers whether internal or external. My most recent experience is in Linux and its surrounding technologies. My goal is to improve my automation toolset and eventually get into software development.
+I have over 15 years of experience in Information Technology with a specialty in system administration. In those years I've provided best-in-class customer service for my customers whether internal or external. My most recent experience is in Linux and its surrounding technologies. My goal is to land a role in support or customer success.
 
 ## Competencies  
 
-* Operating Systems - Windows Server, Redhat, Ubuntu Linux provisioning, patch management, networking, and decomissioning on physical and virtual platforms like VMware and KVM.  
+* Operating Systems - Windows Server, Redhat, Ubuntu Linux provisioning, patch management, networking, and decommissioning on physical and virtual platforms like VMware and KVM.  
 
 * Automation - Bash scripting, Powershell scripting, Ansible, Group Policy Objects  
 
@@ -44,15 +44,15 @@ I have over 15 years of experience in Information Technology with a specialty in
 
 ## Experience  
 
-_**General Dynmics Information Technology, Sept 2025 - Present**_  
+_**General Dynamics Information Technology, Sept 2025 - Present**_  
 
 * Linux System Administrator  
 
   * Collaborated with database administrators to configured operating system prerequisites for OS migration  
 
-  * Coordinated betweeen database administrators and developers to schedule downtime for approved changes.
+  * Coordinated between database administrators and developers to schedule downtime for approved changes.
   
-  * Gained a deeper understading of Ansible inventory management, as well as, playbook writing techniques.  
+  * Gained a deeper understanding of Ansible inventory management, as well as, playbook writing techniques.  
 
   * Configured systems for STIG compliance.  
 
@@ -60,7 +60,6 @@ _**General Dynmics Information Technology, Sept 2025 - Present**_
 
 _**Freelancing/Training, 2025**_  
   * Git  
-  * Python  
   * Docker
   * AWS  
   * Blender
@@ -100,7 +99,7 @@ _**Glynn County Board of Commissioners, 2014**_
 
   * Experimented with Ansible for configuring Cisco devices and managing Windows Servers  
 
-  * Wrote Powershell scripts to automate onboarding/offboarding of endusers  
+  * Wrote Powershell scripts to automate onboarding/offboarding of end users  
 
   * User and group management with Active Directory  
 
@@ -127,7 +126,7 @@ _**Glynn County Board of Commissioners, 2014**_
 
    * Terminated fiber cable  
 
-   * Configured cisco switches and routers for initial setup  
+   * Configured Cisco switches and routers for initial setup  
 
    * Network troubleshooting  
 
